@@ -1,0 +1,45 @@
+@font-face {
+	font-family: Vazir-FD;
+	src: url('../font/Vazir-FD.eot');
+	src: url('../font/Vazir-FD.eot?#iefix') format('embedded-opentype'),
+	url('./../font/Vazir-FD.woff') format('woff'),
+	url('./../font/Vazir-FD.ttf') format('truetype');
+	font-weight: normal;
+}
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	outline: none;
+}
+img {
+	max-width: 100%;
+}
+a {
+	color: #999caf;
+	text-decoration: none;
+}
+a:active,
+a:hover {
+	color: #fff;
+}
+h1,h2,h3,h4,h5 { color: #fff; margin: 0; }
+ul,li {
+	list-style: none;
+}
+
+body,html {
+	direction: rtl;
+	position: relative;
+	font-size: 14px;
+	line-height: 2em;
+}
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+body,html,button,textarea,input,label,select {
+	font-family: 'Vazir-FD';
+}
