@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/evokelektrique/applink-php">
-    <img src="./public/img/logo_blue.png?raw=true" alt="Logo" width="80" height="80">
+    <img src="./public/img/logo_blue.png?raw=true" alt="Logo" width="150">
   </a>
 
   <h3 align="center">Kawaii</h3>
