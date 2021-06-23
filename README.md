@@ -63,7 +63,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/evokelektrique/applink-php.git
+   git clone https://github.com/evokelektrique/kawaii.git
    ```
 2. Import `./kawaii.sql` into MySQL
 3. Change `./application/config/config.php` variables
