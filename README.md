@@ -10,7 +10,7 @@
     سرویس همه کاره و چند منظوره خواندن کامیک و مانگا آنلاین
     <br />
     <br />
-    <a href="https://github.com/evokelektrique/kawaii/screenshots">View Screenshots</a>
+    <a href="https://github.com/evokelektrique/kawaii/tree/master/screenshots">View Screenshots</a>
     ·
     <a href="https://github.com/evokelektrique/kawaii/issues">Report Bug</a>
   </p>
